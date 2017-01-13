@@ -2,5 +2,5 @@ This application is a project submission for the Udacity Full Stack Web Develope
 
 To run this application:
 
-1) Open favorite_movies.py in Python IDLE
-2) In the top menu, click 'RUN', then "Run Module"
+1. Open favorite_movies.py in Python IDLE
+2. In the top menu, click 'RUN', then "Run Module"
